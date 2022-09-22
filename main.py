@@ -1,0 +1,5 @@
+yearborn = (2004)
+name = ("cody")
+year = (2022)
+age = (year - yearborn)
+print(f"{name} will turn {age} this year")
